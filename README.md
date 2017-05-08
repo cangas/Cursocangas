@@ -1,0 +1,2 @@
+# Cursocangas
+GitHub Pages
